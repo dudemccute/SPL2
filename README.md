@@ -2,7 +2,7 @@
 
 ## Inhalte vom 18.04.2018
 
-###git Grundlagen Wiederholung
+### git Grundlagen Wiederholung
 * git Konfigurieren (wenn man es lokal verwenden will)
   * git config -- global user.name <username>
   * git config -- global user.email <email>
