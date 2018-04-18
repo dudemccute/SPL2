@@ -1,6 +1,6 @@
 # SPL2
 
-##Inhalte vom 18.04.2018
+## Inhalte vom 18.04.2018
 
 ###git Grundlagen Wiederholung
 * git Konfigurieren (wenn man es lokal verwenden will)
@@ -14,4 +14,4 @@
   * git push ( wenn man das repository von einem Server geklont hat
   * git clone <URL vom Repository>
 
-###python Grundlagen
+### python Grundlagen
